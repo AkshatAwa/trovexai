@@ -1,0 +1,53 @@
+.slm{
+    width: 100vw;
+    height: 50vh;
+    background-image: url('./sml.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.slmc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7rem;
+    margin-top: 5rem;
+}
+.slmcl{
+    width: 25rem;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    font-family: 'Montserrat','sans-serif';
+    font-weight: 500;
+    text-align: end;
+    font-size: 40px;
+}
+.slmcr{
+    position: relative;
+    top: 3rem;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    color: #515151;
+    font-family: "Montserrat",'sans-serif';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 34px;
+    letter-spacing: -0.24px;
+}
+.slmbtn{
+    border-radius: 6px;
+border: 2px #A356E0;
+
+background: linear-gradient(90deg, #B460F3, #FE4679);
+box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.50);
+display: flex;
+width: 218px;
+height: 51px;
+padding: 10px 25px;
+justify-content: center;
+align-items: center;
+color: aliceblue;
+}

@@ -1,0 +1,10 @@
+.footer{
+    display: flex;
+    width: 100vw;
+    height: 10rem;
+    justify-content: center;
+    align-items: center;
+    background: #3F0D88;
+    font-family: 'Montserrat','sans-serif';
+    color: #fff;
+}
